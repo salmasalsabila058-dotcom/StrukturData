@@ -30,7 +30,7 @@ public class Main {
     public static void main(String[] args) {
 
         Mahasiswa[] data = {
-            new Mahasiswa("Farhan Maulana", "2302011101", 82, 7),
+            new Mahasiswa("Farhan Maulana", "2302011101", 82, 8),
             new Mahasiswa("Zahra Khairunnisa", "2302011102", 91, 2),
             new Mahasiswa("Dito Ramadhan", "2302011103", 75, 11),
             new Mahasiswa("Anisa Putri", "2302011104", 88, 4),
@@ -42,7 +42,7 @@ public class Main {
             new Mahasiswa("Rafi Prasetyo", "2302011110", 90, 3),
             new Mahasiswa("Salsabila Azzahra", "2302011111", 77, 10),
             new Mahasiswa("Yoga Saputro", "2302011112", 70, 14),
-            new Mahasiswa("Intan Puspita", "2302011113", 83, 8),
+            new Mahasiswa("Intan Puspita", "2302011113", 83, 7),
             new Mahasiswa("Gilang Pratama", "2302011114", 74, 12),
             new Mahasiswa("Taufik Hidayat", "2302011115", 68, 15)
         };
